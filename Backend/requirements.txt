@@ -1,0 +1,8 @@
+fastapi
+SQLAlchemy>=2.0
+PyMySQL
+pydantic-settings
+PyJWT
+bcrypt
+email-validator
+python-multipart
